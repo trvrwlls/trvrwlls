@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @trvrwlls
 - 🌱 I am a physics student at the University of Calgary, in my last year, looking to find a position in the field of data science.
 - 💞️ I’m looking to collaborate on any project at the moment.
-- I am currently looking to learn more about AWS and machine learning. 
